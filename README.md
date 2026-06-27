@@ -61,3 +61,13 @@ This version includes a front-end demo cart similar to the live booking/cart pan
 - Cart persistence using browser `localStorage`
 
 The cart is for local preview only. Before publishing, connect the final checkout button to GoDaddy Bookings, Stripe, PayPal, Calendly, or another booking/payment provider.
+
+
+## Images
+
+The site now includes local SVG illustrations inside the `assets/` folder. They work offline and on GitHub Pages. Replace `assets/about-mahdi-placeholder.svg` with a real photo when available. Keep the same filename or update the `<img src="...">` paths in the HTML files.
+
+
+## Live site images
+
+This version uses image URLs from the existing live website at 617englishcoach4egypt.ca, including the official logo and online coaching illustration hosted on GoDaddy/WSImg. Keep those URLs active or download the images into the `assets/` folder before final production.
